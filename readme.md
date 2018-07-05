@@ -1,4 +1,4 @@
-# Manajemen Tabungan
+# Aplikasi
 Aplikasi sederhana, untuk pencatatan tabungan siswa dibuat dengan Laravel.
 100% offline!
 
